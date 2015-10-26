@@ -317,13 +317,11 @@ input[type="submit"] {
 }
 
 .spinner {
+
 	position: absolute;
-	width: 300px;
-	height: 300px;
-	top: 42%;
-	left: 43%;
-	margin-left: -40px;
-	margin-top: -40px;
+	.img {
+		width: 100%;
+	} 
 }
 
 .dot1, .dot2 {
