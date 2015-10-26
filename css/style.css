@@ -324,8 +324,6 @@ input[type="submit"] {
 	left: 43%;
 	margin-left: -40px;
 	margin-top: -40px;
-	-webkit-animation: rotatee 2.0s infinite linear;
-	animation: rotatee 2.0s infinite linear;
 }
 
 .dot1, .dot2 {
