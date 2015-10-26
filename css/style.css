@@ -5161,7 +5161,7 @@ ul.footer-nav li a:hover {
 /* preloading images */
 .owl-item.loading{
 	min-height: 150px;
-	background: url(../images/icons/ajaxloader.gif) no-repeat center center
+	background: url(../images/logo.png) no-repeat center center
 }
 
 
