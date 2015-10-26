@@ -32,7 +32,7 @@ a.main-button, input[type="submit"] {
 
 .navbar-default .navbar-nav > li:hover > a,
 .navbar-default .navbar-nav > li > a.active {
-	color: #ee3733;
+	color: #yellow;
 }
 
 .dropdown > li:hover > a, .sup-dropdown li:hover > a {
